@@ -47,7 +47,7 @@ Build project
 ~~~bash  
   cd build
   cmake .. -Dtest=on
-  make -j8
+  make -j18
 ~~~
 
 Run test
